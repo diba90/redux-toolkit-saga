@@ -1,6 +1,6 @@
 /* header style */
 .header {
-  background-color: orange;
+  background-color: #eeeeed;
   height: 100px;
 }
 .cart-div {
@@ -28,11 +28,13 @@
 .product-container {
   display: flex;
   flex-wrap: wrap;
+  width: 100%;
 }
 .product-item {
   border: 1px solid #ccc;
   padding: 20px;
   margin: 20px;
+  width: 22.3%;
 }
 /* end product Ui style */
 

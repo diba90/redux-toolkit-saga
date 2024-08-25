@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung M 40",
+      "color": "black",
+      "price": 15000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.unsplash.com/photo-1691449808001-bb8c157f0094?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "name": "Samsung F20",
+      "color": "white",
+      "price": 50000,
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://images.unsplash.com/photo-1677319208058-72d37f06dd1a?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "color": "red",
+      "price": 5000,
+      "category": "cloths",
+      "brand": "Nike",
+      "photo": "https://images.unsplash.com/photo-1691452194257-57e0f170c32e?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "name": "Sports Shoes",
+      "color": "red and black",
+      "price": 8000,
+      "category": "rebook",
+      "brand": "Nike",
+      "photo": "https://images.unsplash.com/photo-1721864428894-3900930506aa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "name": "530 laptop",
+      "color": "white",
+      "price": 88000,
+      "category": "laptop",
+      "brand": "HP",
+      "photo": "https://images.unsplash.com/photo-1721864428866-811f04fbd1cd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "name": "earphone - 10",
+      "color": "green",
+      "price": 800,
+      "category": "earphone",
+      "brand": "mivi",
+      "photo": "https://images.unsplash.com/photo-1675081705045-1989239d5cbd?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "name": "black shirt",
+      "color": "black",
+      "price": 1800,
+      "category": "cloths",
+      "brand": "tommy",
+      "photo": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "name": "green shirt",
+      "color": "green",
+      "price": 1900,
+      "category": "cloths",
+      "brand": "tommy",
+      "photo": "https://plus.unsplash.com/premium_photo-1681233752824-e621795b3100?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}

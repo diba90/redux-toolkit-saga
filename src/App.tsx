@@ -15,14 +15,6 @@ import Main from "./component/Main";
 import Cart from "./component/Cart";
 
 function App() {
-  // const dispatch = useDispatch();
-  // const product = {
-  //   name: "Iphone",
-  //   type: "mobile",
-  //   price: 10000,
-  //   color: "green",
-  // };
-
   return (
     // <Box sx={{ flexGrow: 1 }}>
     //   <AppBar position="static">
